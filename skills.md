@@ -20,7 +20,7 @@
 - Argo CD
 
 ## Технологии
-- Apache Kafka
+- Apache Kafka [ https://habr.com/ru/company/piter/blog/352978/ ]
 - Redis
 - HAProxy
 - Prometheus
