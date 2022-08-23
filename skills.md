@@ -39,3 +39,11 @@
 - Kibana
 - Logstash
 - FluentD
+
+# Security
+## Code scan
+- SonarQube
+- snyk.io
+
+## Container scan
+- grype
