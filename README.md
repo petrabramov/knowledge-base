@@ -3,6 +3,7 @@
 - компьютерные сети [ https://linkmeup.gitbook.io/sdsm/ ]
 - clouds (AWS, GCP, Yandex)
 - Load balance
+    - https://habr.com/ru/company/dododev/blog/469999/
 - Scalability
 - HA
 - Kubernetes
