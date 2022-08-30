@@ -12,6 +12,8 @@
 - алертинг
 - мониторинг/сбор метрик
 - CDN
+- Linux
+    - https://habr.com/ru/company/ruvds/blog/337934/
 
 ## CI/CD
 - CircleCI
