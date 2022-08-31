@@ -25,7 +25,7 @@
 ## Технологии
 - Apache Kafka [ https://habr.com/ru/company/piter/blog/352978/ ]
 - Redis
-- HAProxy
+- Traefik/HAProxy
 - Prometheus
 - Grafana
 - Terraform
