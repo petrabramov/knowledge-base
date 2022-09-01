@@ -7,6 +7,7 @@
 - Как работает
 - С какими providers работал
 
+## General
 - Infrastructure as a Code
 - GitOps
 - GitLab CI

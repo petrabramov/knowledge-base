@@ -35,6 +35,8 @@
 - ClickHouse
 - Minio
 - Keycloak
+    - https://habr.com/ru/company/southbridge/blog/654475/
+    - https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 - RabbitMQ
 - Vault
 - Graylog
